@@ -1,4 +1,4 @@
-# 使用 HackMii Installer v1.0
+# 使用 HackMii Installer v1.0  {#hmiv1-0}
 
 
 ## 一、启动界面

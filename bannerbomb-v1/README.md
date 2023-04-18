@@ -6,11 +6,11 @@
 Wii 能够从 SD 卡读取频道的数据。如果先将“特别的”频道数据文件拷贝到 SD 卡上，然后在 Wii 里面选择从 SD 卡读取频道，就能触发 Bannerbomb 漏洞，漏洞会执行 SD 卡根目录的 boot.elf 文件，启动 HackMii Installer。
 
 
-## 二、文件列表
+## 二、相关文件
 
 | 文件名 | 说明 |
 | --- | --- |
-| aad1f_v108.zip | 上面所说的“特别的”频道数据文件 |
+| aad1f_v108.zip | 上文所说的“特别的”频道数据文件 |
 | boot.elf | 来自 HackMii Installer v1.0，这是由于 Wii 原生的 3.x 系统不支持 v1.2 |
 
 

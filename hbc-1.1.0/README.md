@@ -1,5 +1,6 @@
 # Step 1: 把 HBC 升级到 1.1.0 版本
 
+HBC 是 Homebrew Channel 的缩写，一台 Wii 上面有没有安装 HBC，是这台 Wii 有没有做过破解的重要标志。
 
 ## 一、已经安装过 HBC 的 Wii
 

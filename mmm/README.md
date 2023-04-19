@@ -16,7 +16,10 @@
 
 ## 二、注意事项
 
-- IOS36-64-v3608.wad 是最新 IOS36 版本，MMM 能够基于这个版本的 IOS36 制作出 cIOS236；
+- 如下图所示，如果 -> Load another IOS 后面的内容带有 IOS236 的字样，说明你的 Wii 已经安装过 cIOS236，可以直接略过 Step 3，跳转到[《Step 4: 安装 IOS58》](@ref step4)，继续后面的操作：<br/>
+  ![](./mmm-cios236-loaded.png)
+
+- IOS36-64-v3608.wad 是最新的 IOS36 安装文件，MMM 能够基于它制作出 cIOS236；
 
 - 如果你在 MMM 中无法使用遥控器手柄，在 `apps/MMM` 文件夹里有一个 cIOS236 的安装文件（.wad 格式），请参照[《Step 2: 安装 USB Loader 使用的 cIOS》](@ref step2)一文中的做法完成安装：<br/>
   ![](./yawmME-select-cios236.png)

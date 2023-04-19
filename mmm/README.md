@@ -11,9 +11,18 @@
 | IOS15-64-v257.wad | 通过 NUS Downloader 下载 |
 | IOS15-64-v1032.wad | 通过 NUS Downloader 下载 |
 | IOS36-64-v3608.wad | 通过 NUS Downloader 下载 |
+| cIOS236[36-v3351]-v65535.wad | <https://modmii.github.io> <br/>基于 IOS36-64-v3351 制作的 cIOS236 安装文件 |
 
 
-## 二、安装步骤
+## 二、注意事项
+
+- IOS36-64-v3608.wad 是最新 IOS36 版本，MMM 能够基于这个版本的 IOS36 制作出 cIOS236；
+
+- 如果你在 MMM 中无法使用遥控器手柄，在 `apps/MMM` 文件夹里有一个 cIOS236 的安装文件（.wad 格式），请参照[《Step 2: 安装 USB Loader 使用的 cIOS》](@ref step2)一文中的做法完成安装：<br/>
+  ![](./yawmME-select-cios236.png)
+
+
+## 三、安装步骤
 
 1. 在 HBC 运行 MMM ：<br/>
   ![](./multi-mod-manager.png)

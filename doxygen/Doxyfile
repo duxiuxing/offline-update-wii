@@ -920,8 +920,9 @@ WARN_LOGFILE           =
 INPUT                  = ../hbc-1.1.0/README.md \
                          ../bannerbomb-v1/README.md \
                          ../yawmME/README.md \
-                         ../some-yawmm-mod/README.md \                         
+                         ../some-yawmm-mod/README.md \
                          ../hackmii-installer-v1.0/README.md \
+                         ../mmm/README.md \
                          other-docs-toc.dox
 
 # This tag can be used to specify the character encoding of the source files
@@ -1419,7 +1420,14 @@ HTML_EXTRA_FILES       = ../hbc-1.1.0/hbc-1.1.0.png \
                          ../hackmii-installer-v1.0/hmiv1.0-install-hbc-success.png \
                          ../hackmii-installer-v1.0/hmiv1.0-press-1-to-continue.png \
                          ../hackmii-installer-v1.0/hmiv1.0-startup.png \
-                         ../hackmii-installer-v1.0/hmiv1.0-yes-continue.png
+                         ../hackmii-installer-v1.0/hmiv1.0-yes-continue.png \
+                         ../mmm/mmm-cios236-loaded.png \
+                         ../mmm/mmm-cios249-loaded.png \
+                         ../mmm/mmm-express-mode.png \
+                         ../mmm/mmm-install-cios236.png \
+                         ../mmm/mmm-load-another-ios.png \
+                         ../mmm/mmm-select-cios249.png \
+                         ../mmm/multi-mod-manager.png
 
 # The HTML_COLORSTYLE tag can be used to specify if the generated HTML output
 # should be rendered with a dark or light theme.
@@ -1482,7 +1490,7 @@ HTML_TIMESTAMP         = NO
 # The default value is: YES.
 # This tag requires that the tag GENERATE_HTML is set to YES.
 
-HTML_DYNAMIC_MENUS     = YES
+HTML_DYNAMIC_MENUS     = NO
 
 # If the HTML_DYNAMIC_SECTIONS tag is set to YES then the generated HTML
 # documentation will contain sections that can be hidden and shown after the

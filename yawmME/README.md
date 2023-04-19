@@ -5,7 +5,7 @@
 
 | 文件 | 出处 |
 | --- | --- |
-| **YAWM ModMii Edition** | <https://github.com/modmii/YAWM-ModMii-Edition> |
+| YAWM ModMii Edition | <https://github.com/modmii/YAWM-ModMii-Edition> |
 | 7 个 cIOS 安装文件（.wad 格式） | <https://modmii.github.io> |
 
 
@@ -13,22 +13,22 @@
 
 - 本文重在阐述安装步骤，相关知识点请参考[《USB Loader 使用的 cIOS》](../cios-for-usb-loader/README.md)；
 
-- **YAWM ModMii Edition** 会进行严格的区域信息检查，在欧美日韩以外的非主流机型上运行可能会出现以下错误：
+- YAWM ModMii Edition 会进行严格的区域信息检查，在欧美日韩以外的非主流机型上运行可能会出现以下错误：
 
   ![](./yawmME-unknown-region.png)
 
-  这个问题用回老版本的 APP 就能解决，详情请参考[《安装 USB Loader 使用的 cIOS（2022 版）》](../some-yawmm-mod/README.md)。
+  这个问题用回老版本的 APP 就能解决，详情请参考[《安装 USB Loader 使用的 cIOS（2022 版）》](@ref some-yawmm-mod)。
 
 
 ## 三、安装步骤
 
-1. 在 **HBC** 运行 **YAWM ModMii Edition** ：<br/>
+1. 在 HBC 运行 YAWM ModMii Edition：<br/>
   ![](./yawmME.png)
 
-2. 一般情况下，APP 启动之后会进入 **Select source device** 界面：
-    - 通过 SD 卡安装的，选择 **Wii SD Slot** ：<br/>
+2. 一般情况下，APP 启动之后会进入 Select source device 界面：
+    - 通过 SD 卡安装的，选择 Wii SD Slot：<br/>
     ![](./yawmME-select-sd.png)
-    - 通过 USB 设备安装的，选择 **USB Mass Storage Device** ：<br/>
+    - 通过 USB 设备安装的，选择 USB Mass Storage Device：<br/>
     ![](./yawmME-select-usb.png)
 
 3. 进入 `wad/cIOS` 文件夹，可以看到 7 个 cIOS 对应的 .wad 文件，如下图所示：<br/>

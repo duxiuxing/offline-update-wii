@@ -5,7 +5,7 @@
 
 | 文件 | 出处 |
 | --- | --- |
-| **Some YAWMM Mod** | <https://github.com/FIX94/Some-YAWMM-Mod> |
+| Some YAWMM Mod | <https://github.com/FIX94/Some-YAWMM-Mod> |
 | 7 个 cIOS 安装文件（.wad 格式） | <https://modmii.github.io> |
 
 
@@ -16,13 +16,13 @@
 
 ## 三、安装步骤
 
-1. 在 **HBC** 运行 **Some YAWMM Mod** ：<br/>
+1. 在 HBC 运行 Some YAWMM Mod：<br/>
   ![](./some-yawmm-mod.png)
 
-2. 一般情况下，APP 启动之后会进入 **Select source device** 界面：
-    - 通过 SD 卡安装的，选择 **Wii SD Slot** ：<br/>
+2. 一般情况下，APP 启动之后会进入 Select source device 界面：
+    - 通过 SD 卡安装的，选择 Wii SD Slot ：<br/>
     ![](./yawmm-select-sd.png)
-    - 通过 USB 设备安装的，选择 **USB Mass Storage Device** ：<br/>
+    - 通过 USB 设备安装的，选择 USB Mass Storage Device：<br/>
     ![](./yawmm-select-usb.png)
 
 3. 进入 `wad/cIOS` 文件夹，可以看到 7 个 cIOS 对应的 .wad 文件，如下图所示：<br/>

@@ -24,31 +24,33 @@ HackMii Installer 启动之后会出现以下的界面：
 
 3. 市面上绝大部分机型的 BootMii 检测结果都是 Can only be installed as an IOS。
 
-早期的日版 Wii 主机存在一个漏洞，姑且将其称为 boot2 漏洞，通过这个漏洞，我们可以使用 BootMii 在 Wii 上面安装（欧美日韩）任意一区，任意版本的系统，畅玩各区的游戏，而且能够 100% 防砖。日本民间将这种机型的 Wii 称为：神机。
+早期的日版 Wii 主机存在一个漏洞，姑且将其称为 boot2 漏洞。利用这个漏洞，我们可以使用 BootMii 在 Wii 上面安装欧美日韩任意一区，任意版本的系统，无障碍畅玩各区的游戏，而且还能够 100% 防砖。日本民间将这种机型的 Wii 称为： **神机** 。
 
-神机的检测结果界面是这样的：
+下图为神机的检测结果界面：
 
 ![](./hmiv1.0-bootmii-as-boot2.png)
 
-测试结果界面没有其他操作入口，按遥控器手柄的 [A] 键继续。
+检测结果界面没有其他操作入口，按 [A] 键继续。
 
 
-## 三、安装 Homebrew Channel 1.1.0
+## 三、安装 HBC 1.1.0
 
-1. 先按遥控器手柄的方向键，使 > 指向 Install The Homebrew Channel，然后按 [A] 键：
+1. 先按方向键，选择 Install The Homebrew Channel，然后按 [A] 键：<br/>
   ![](./hmiv1.0-install-hbc.png)
 
-2. 选择 Yes, continue，按 [A] 键：
+2. 选择 Yes, continue，按 [A] 键：<br/>
   ![](./hmiv1.0-yes-continue.png)
 
-3. 等待安装结束，按 [A] 键：
+3. 如果之前已经安装过 HBC，HackMii Installer 会先将其卸载，再开始安装 HBC 1.1.0。耐心等待安装结束，按 [A] 键：<br/>
   ![](./hmiv1.0-install-hbc-success.png)
 
-4. 选择 Exit，按 [A] 键，退出 HackMii Installer 之后会自动进入 HBC：
+4. 选择 Exit，按 [A] 键，退出 HackMii Installer 之后会自动进入 HBC：<br/>
   ![](./hmiv1.0-exit.png)
 
-5. 在 HBC 界面按遥控器手柄的 [HOME] 键，可以在画面的右上角看到 HBC 的版本号为 1.1.0：
+5. 在 HBC 界面按 [HOME] 键，画面右上角会显示 HBC 的版本号为 1.1.0：<br/>
   ![](./hmiv1.0-hbc-1.1.0.png)
 
+
+## 四、安装 BootMii
 
 后面我们还会把 HBC 升级到 1.1.2，到时再一起安装 BootMii。

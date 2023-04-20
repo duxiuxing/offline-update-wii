@@ -1,9 +1,18 @@
 # Step 3: 安装 cIOS236  {#step3}
 
 
-本文重在阐述安装步骤，相关知识点请参考[《IOS36 和 cIOS236》](../cios236/README.md)。
+## 一、关于 IOS36 和 cIOS236
 
-## 一、相关文件
+进行安装 IOS、安装系统菜单、安装/删除系统频道、安装 Priiloader 之类的操作，通常需要有较高的权限才能完成。IOS36 正好具备这样的高级权限。
+
+cIOS236 是官方 IOS36 的补丁版本，它能够为自制 APP 提供稳定的高级权限。比如使用 cIOS236 来安装 .wad 文件，极少会出现安装失败的情况。其他推荐优先使用 cIOS236 的 APP 还有：
+
+- Any Region Changer: 改区 APP；
+- AnyTitle Deleter MOD: 删除系统频道；
+- Priiloader: 防砖 APP。 
+
+
+## 二、相关文件
 
 | 文件 | 出处 |
 | --- | --- |
@@ -14,7 +23,7 @@
 | cIOS236[36-v3351]-v65535.wad | <https://modmii.github.io> <br/>cIOS236 的安装文件，基于 IOS36-64-v3351 制作 |
 
 
-## 二、注意事项
+## 三、注意事项
 
 - 如下图所示，如果 -> Load another IOS 后面的文字带有 IOS236 的字样，说明你的 Wii 已经安装过 cIOS236，可以直接略过本文余下的内容，直接跳转到[《Step 4: 安装 IOS58》](@ref step4)，继续后面的操作：<br/>
   ![](./mmm-cios236-loaded.png)
@@ -25,7 +34,7 @@
   ![](./yawmME-select-cios236.png)
 
 
-## 三、安装步骤
+## 四、安装步骤
 
 1. 在 HBC 运行 MMM ：<br/>
   ![](./multi-mod-manager.png)

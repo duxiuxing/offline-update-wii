@@ -50,7 +50,7 @@ Wii 能够从 SD 卡读取频道的数据。如果事先将“特别的”频道
 7. 稍事等待，就能看到 HackMii Installer 的启动界面：<br/>
   ![](./bbv1-hackmii-installer.png)
 
-8. 接下来请参考[《使用 HackMii Installer v1.0》](@ref hmiv1-0)，完成 HBC 1.1.0 的安装。
+8. 接下来请参考[《使用 HackMii Installer v1.0》](@ref hmiv1-0)一文中的操作步骤，安装 1.1.0 版本的 HBC。
 
 
 ## 五、参考链接

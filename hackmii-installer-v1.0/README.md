@@ -33,7 +33,7 @@ HackMii Installer 启动之后会出现以下的界面：
 检测结果界面没有其他操作入口，按 [A] 键继续。
 
 
-## 三、安装 HBC 1.1.0
+## 三、安装 1.1.0 版本的 HBC
 
 1. 先按方向键，选择 Install The Homebrew Channel，然后按 [A] 键：<br/>
   ![](./hmiv1.0-install-hbc.png)
@@ -41,7 +41,7 @@ HackMii Installer 启动之后会出现以下的界面：
 2. 选择 Yes, continue，按 [A] 键：<br/>
   ![](./hmiv1.0-yes-continue.png)
 
-3. 如果之前已经安装过 HBC，HackMii Installer 会先将其卸载，再开始安装 HBC 1.1.0。耐心等待安装结束，按 [A] 键：<br/>
+3. 如果之前已经安装过 HBC，HackMii Installer 会先将其卸载，再开始安装 1.1.0 版本的 HBC。耐心等待安装结束，按 [A] 键：<br/>
   ![](./hmiv1.0-install-hbc-success.png)
 
 4. 选择 Exit，按 [A] 键，退出 HackMii Installer 之后会自动进入 HBC：<br/>

@@ -1,4 +1,4 @@
-# Step 1: 安装 HBC 的 1.1.0 版本  {#hbc-1-1-0}
+# Step 1: 安装 1.1.0 版本的 HBC  {#hbc-1-1-0}
 
 
 HBC 是 Homebrew Channel 的缩写，一台 Wii 上面有没有安装 HBC，是这台 Wii 有没有做过破解的重要标志。
@@ -16,7 +16,7 @@ HBC 是 Homebrew Channel 的缩写，一台 Wii 上面有没有安装 HBC，是�
 4. 如果你的 HBC 版本低于 1.1.0，请运行 hackmii-installer-v1.0 这个 APP 来升级：<br/>
   ![](./hmiv1.0.png)
 
-5. 安装 HBC 1.1.0 的操作请参考[《使用 HackMii Installer v1.0》](@ref hmiv1-0)。
+5. 接下来请参考[《使用 HackMii Installer v1.0》](@ref hmiv1-0)一文中的操作步骤，安装 1.1.0 版本的 HBC。
 
 
 ## 二、没有安装过 HBC 的 Wii

@@ -25,12 +25,12 @@ cIOS236 是官方 IOS36 的补丁版本，它能够为自制 APP 提供稳定的
 
 ## 三、注意事项
 
-- 如下图所示，如果 -> Load another IOS 后面的文字带有 IOS236 的字样，说明你的 Wii 已经安装过 cIOS236，可以直接略过本文余下的内容，直接跳转到[《Step 4: 安装 IOS58》](@ref step4)，继续后面的操作：<br/>
+- 如果你的 Wii 和下图一样，-> Load another IOS 后面显示为 IOS236，说明你的 Wii 已经安装过 cIOS236，可以略过本文余下的内容，跳转到[《Step 4: 安装 IOS58》](@ref step4)继续操作：<br/>
   ![](./mmm-cios236-loaded.png)
 
 - IOS36-64-v3608.wad 是最新的 IOS36 安装文件，MMM 将基于它制作出 cIOS236；
 
-- 如果你在 MMM 中无法使用遥控器手柄，在 `apps/MMM` 文件夹里有一个 cIOS236 的安装文件（.wad 格式），请参照[《Step 2: 安装 USB Loader 使用的 cIOS》](@ref step2)一文中的做法完成安装：<br/>
+- 如果你在 MMM 中无法使用遥控器手柄，在 `apps/MMM` 文件夹里有一个 cIOS236 的安装文件（.wad 格式），请参照[《Step 2: 安装 USB Loader 使用的 cIOS》](@ref step2)一文中的做法来安装 cIOS236，然后略过本文余下的内容，跳转到[《Step 4: 安装 IOS58》](@ref step4)继续操作：<br/>
   ![](./yawmME-select-cios236.png)
 
 

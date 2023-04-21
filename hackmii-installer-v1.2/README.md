@@ -1,4 +1,4 @@
-# Step 5: 安装 HBC 的 1.1.2 版本  {#hmiv1-2}
+# Step 5: 安装 1.1.2 版本的 HBC  {#hmiv1-2}
 
 
 ## 一、相关文件
@@ -8,9 +8,9 @@
 | hackmii-installer-v1.2.zip | <https://bootmii.org/download/> |
 
 
-## 二、安装 HBC 1.1.2
+## 二、安装 1.1.2 版本的 HBC
 
-在[前面的教程](@ref hmiv1-0)中，已经详细讲解过如何使用 HackMii Installer v1.0 安装 HBC 1.1.0，操作步骤和使用 HackMii Installer v1.2 安装 HBC 1.1.2 几乎没有区别。因此，本文仅记录一下操作步骤，不再作重复的详细讲解。
+在[前面的教程](@ref hmiv1-0)中，已经详细讲解过如何使用 HackMii Installer v1.0 安装 1.1.0 版本的 HBC，操作步骤和使用 HackMii Installer v1.2 安装 1.1.2 版本的 HBC 几乎没有区别。因此，本文仅记录操作步骤，不再作重复的详细讲解。
 
 1. 在 HBC 运行 HackMii Installer v1.2：<br/>
   ![](./hmiv1.2.png)
@@ -34,7 +34,7 @@
 6. 选择 Yes, continue，按 [A] 键：<br/>
   ![](./hmiv1.2-yes-continue.png)
 
-7. HackMii Installer 会先卸载 HBC 1.1.0，再开始安装 HBC 1.1.2。耐心等待安装结束，按 [A] 键：<br/>
+7. HackMii Installer 会先卸载 1.1.0 版本的 HBC，再开始安装 1.1.2 版本的 HBC。耐心等待安装结束，按 [A] 键：<br/>
   ![](./hmiv1.2-install-hbc-success.png)
 
 8. 选择 Exit，按 [A] 键，退出 HackMii Installer 之后会自动进入 HBC：<br/>
@@ -43,4 +43,4 @@
 9. 在 HBC 界面按 [HOME] 键，画面右上角会显示 HBC 的版本号为 1.1.2：<br/>
   ![](./hmiv1.2-hbc-1.1.2.png)
 
-HBC 1.1.2 和 IOS58 v24.32 的搭配才是绝配。
+1.1.2 版本的 HBC 和 IOS58 v24.32 的搭配才是绝配。

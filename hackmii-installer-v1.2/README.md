@@ -1,11 +1,11 @@
-# Step 5: 把 HBC 升级到 1.1.2 版本  {#hmiv1-2}
+# Step 5: 安装 HBC 的 1.1.2 版本  {#hmiv1-2}
 
 
 ## 一、相关文件
 
 | 文件 | 出处 |
 | --- | --- |
-| hackmii-installer-v1.2.zip | <https://bootmii.org/download> |
+| hackmii-installer-v1.2.zip | <https://bootmii.org/download/> |
 
 
 ## 二、安装 HBC 1.1.2

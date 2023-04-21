@@ -42,7 +42,7 @@ DOXYFILE_ENCODING      = UTF-8
 # title of most generated pages and in a few other places.
 # The default value is: My Project.
 
-PROJECT_NAME           = 4.3系统离线升级教程（适用于4.1及以下系统）
+PROJECT_NAME           = Wii离线升级教程（适用于4.1及以下系统）
 
 # The PROJECT_NUMBER tag can be used to enter a project or revision number. This
 # could be handy for archiving the generated documentation or if some version
@@ -917,7 +917,8 @@ WARN_LOGFILE           =
 # spaces. See also FILE_PATTERNS and EXTENSION_MAPPING
 # Note: If this tag is empty the current directory is searched.
 
-INPUT                  = ../hbc-1.1.0/README.md \
+INPUT                  = ../system-version/README.md \
+                         ../hbc-1.1.0/README.md \
                          ../bannerbomb-v1/README.md \
                          ../yawmME/README.md \
                          ../some-yawmm-mod/README.md \
@@ -925,6 +926,9 @@ INPUT                  = ../hbc-1.1.0/README.md \
                          ../cios236/README.md \
                          ../ios58/README.md \
                          ../hackmii-installer-v1.2/README.md \
+                         ../system-menu/4.3j/README.md \
+                         ../system-menu/4.3u/README.md \
+                         ../system-menu/README.dox \
                          other-docs-toc.dox
 
 # This tag can be used to specify the character encoding of the source files
@@ -1139,7 +1143,7 @@ FILTER_SOURCE_PATTERNS =
 # (index.html). This can be useful if you have a project on for instance GitHub
 # and want to reuse the introduction page also for the doxygen output.
 
-USE_MDFILE_AS_MAINPAGE = ../hbc-1.1.0/README.md
+USE_MDFILE_AS_MAINPAGE = ../system-version/README.md
 
 # The Fortran standard specifies that for fixed formatted Fortran code all
 # characters from position 72 are to be considered as comment. A common
@@ -1388,7 +1392,10 @@ HTML_EXTRA_STYLESHEET  = doxygenextra.css
 # files will be copied as-is; there are no commands or markers available.
 # This tag requires that the tag GENERATE_HTML is set to YES.
 
-HTML_EXTRA_FILES       = ../hbc-1.1.0/hbc-1.1.0.png \
+HTML_EXTRA_FILES       = ../system-version/to-wii-options.png \
+                         ../system-version/to-wii-settings.png \
+                         ../system-version/wii-settings1.png \
+                         ../hbc-1.1.0/hbc-1.1.0.png \
                          ../hbc-1.1.0/hbc-icon.png \
                          ../hbc-1.1.0/hmiv1.0.png \
                          ../bannerbomb-v1/bbv1-4.1j.png \

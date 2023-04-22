@@ -150,3 +150,5 @@ def step8():
     return copy_file_to("system-channel\\MiiChannel-ZHTW-v4.wad", "wad")
     
 step8()
+
+extract_file_to("pc-tool\\FAT32-GUI-Formatter.zip", "pc-tool")

@@ -21,7 +21,7 @@ IOS58 是 4.3 系统新增加的系统级 IOS，它全面支持 USB2.0 协议，
 - 安装 IOS58 这样的系统级 IOS，一般 WAD 安装工具可能会因为权限不足而失败，如下图所示：<br/>
   ![](./yawmME-install-wad-error.png)
 
-- 如果你无法在 MMM 中完成 IOS58 的安装，请参考[《安装 USB Loader 使用的 cIOS（2022 版）》](@ref some-yawmm-mod)中的操作步骤来安装 IOS58-64-v6176.wad，然后略过本文余下的内容，跳转到[《Step 5: 安装 1.1.2 版本的 HBC》](@ref step5)继续操作：<br/>
+- 如果你无法在 MMM 中完成 IOS58-64-v6176.wad 的安装，请参考[《安装 USB Loader 使用的 cIOS（2022 版）》](@ref some-yawmm-mod)中的操作步骤，使用 Some YAWMM Mod 来完成安装，然后略过本文余下的内容，跳转到[《Step 5: 安装 1.1.2 版本的 HBC》](@ref step5)继续操作：<br/>
   ![](./yawmm-select-ios58.png)
 
 
@@ -36,8 +36,8 @@ IOS58 是 4.3 系统新增加的系统级 IOS，它全面支持 USB2.0 协议，
 3. 先按遥控器手柄的方向键，使 -> 指向 WAD Manager，然后按 [A] 键：<br/>
   ![](./mmm-wad-manager.png)
 
-4. 进入 `apps/hackmii-installer-v1.2` 文件夹，按遥控器手柄的方向键，使 >> 指向 IOS58-64-v6176.wad，然后按 [A] 键：<br/>
-  ![](./mmm-sel-ios58.png)
+4. 进入 `wad` 文件夹，按遥控器手柄的方向键，使 >> 指向 IOS58-64-v6176.wad，然后按 [A] 键：<br/>
+  ![](./mmm-select-ios58.png)
 
 5. 按 [A] 键继续：<br/>
   ![](./mmm-press-a-to-continue.png)

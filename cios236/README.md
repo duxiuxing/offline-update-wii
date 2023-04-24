@@ -19,29 +19,21 @@ cIOS236 是官方 IOS36 的补丁版本，它能够为自制 APP 提供稳定的
 | Multi-Mod Manager（以下简称 MMM） | <https://gbatemp.net/download/multi-mod-manager.13015> |
 | IOS15-64-v257.wad | 通过 NUS Downloader 下载 |
 | IOS15-64-v1032.wad | 通过 NUS Downloader 下载 |
-| IOS36-64-v3608.wad | 通过 NUS Downloader 下载 |
+| IOS36-64-v3608.wad | 通过 NUS Downloader 下载，MMM 将基于它制作出 cIOS236 |
 | cIOS236[36-v3351]-v65535.wad | <https://modmii.github.io> <br/>cIOS236 的安装文件，基于 IOS36-64-v3351 制作 |
 
 
 ## 三、注意事项
 
-- 如果你的 Wii 和下图一样，-> Load another IOS 后面显示为 IOS236，说明你的 Wii 已经安装过 cIOS236，可以略过本文余下的内容，跳转到[《Step 4: 安装 IOS58》](@ref step4)继续操作：<br/>
+- 在 HBC 运行 MMM，如果你的 Wii 和下图一样，-> Load another IOS 后面显示为 IOS236，说明你的 Wii 已经安装过 cIOS236，可以略过本文余下的内容，跳转到[《Step 4: 安装 IOS58》](@ref step4)继续操作：<br/>
   ![](./mmm-cios236-loaded.png)
 
-- IOS36-64-v3608.wad 是最新的 IOS36 安装文件，MMM 将基于它制作出 cIOS236；
-
-- 如果你无法在 MMM 中安装 cIOS236，请参考[《Step 2: 安装 USB Loader 使用的 cIOS》](@ref step2)中的操作步骤，使用 YAWM ModMii Edition 来安装 `wad` 文件夹里的 cIOS236[36-v3351]-v65535.wad，然后略过本文余下的内容，跳转到[《Step 4: 安装 IOS58》](@ref step4)继续操作：<br/>
-  ![](./yawmME-select-cios236.png)
-
-- 使用 Some YAWMM Mod 也能安装 cIOS236[36-v3351]-v65535.wad，操作步骤请参考[《安装 USB Loader 使用的 cIOS（2022 版）》](@ref some-yawmm-mod)：<br/>
-  ![](./yawmm-select-cios236.png)
-
-- MMM 启动之后，会优先选择 cIOS236 进行加载，这是在 SD 卡根目录下的 mmmconfig.txt 中设置的；
-
-- Some YAWMM Mod 启动之后，也会优先选择 cIOS236 进行加载，这是在 wad 文件夹里的 wm_config.txt 中设置的。
+- 以下三种安装 cIOS236 的方法：
+  - 方法1只能支持 SD 卡，使用的 IOS36 版本比较新；
+  - 方法2和方法3可以选择 SD 卡或 USB 设备，使用的 IOS36 版本稍微老一丢丢。
 
 
-## 四、安装步骤
+## 四、安装方法1：使用 MMM 安装 cIOS236 
 
 1. 在 HBC 运行 MMM ：<br/>
   ![](./multi-mod-manager.png)
@@ -65,6 +57,20 @@ cIOS236 是官方 IOS36 的补丁版本，它能够为自制 APP 提供稳定的
   ![](./mmm-cios236-loaded.png)
 
 
-有了 cIOS236 的加持，我们可以使用 MMM 的 WAD Manager 或者 Some YAWMM Mod 来安装任何 .wad 文件，正如上文第 6 步最后的提示信息所言：
+有了 cIOS236 的加持，我们使用 MMM 的 WAD Manager 或者 Some YAWMM Mod 来安装 .wad 文件，不会再因为权限不足而失败了。正如上文第 6 步最后的提示信息所言：
 
 > You can use it to install anything now.
+
+
+## 五、安装方法2：使用 YAWM ModMii Edition 安装 cIOS236
+
+使用 YAWM ModMii Edition 来安装 `wad` 文件夹里的 cIOS236[36-v3351]-v65535.wad，可参考[《Step 2: 安装 USB Loader 使用的 cIOS》](@ref step2)中的操作步骤：
+
+![](./yawmME-select-cios236.png)
+
+
+## 六、安装方法3：使用 Some YAWMM Mod 安装 cIOS236
+
+使用 Some YAWMM Mod 来安装 `wad` 文件夹里的 cIOS236[36-v3351]-v65535.wad，可参考[《安装 USB Loader 使用的 cIOS（2022 版）》](@ref some-yawmm-mod)中的操作步骤：
+
+![](./yawmm-select-cios236.png)

@@ -1437,12 +1437,14 @@ HTML_EXTRA_FILES       = ../system-version/to-wii-options.png \
                          ../cios236/mmm-load-another-ios.png \
                          ../cios236/mmm-select-cios249.png \
                          ../cios236/multi-mod-manager.png \
+                         ../cios236/yawmm-select-cios236.png \
+                         ../cios236/yawmME-select-cios236.png \
                          ../ios58/hbc-1.1.0-use-ios58.png \
                          ../ios58/mmm-cios236-loaded.png \
                          ../ios58/mmm-done.png \
                          ../ios58/mmm-installing.png \
                          ../ios58/mmm-press-a-to-continue.png \
-                         ../ios58/mmm-sel-ios58.png \
+                         ../ios58/mmm-select-ios58.png \
                          ../ios58/mmm-wad-manager.png \
                          ../ios58/multi-mod-manager.png \
                          ../ios58/yawmm-select-ios58.png \

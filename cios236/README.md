@@ -30,12 +30,15 @@ cIOS236 是官方 IOS36 的补丁版本，它能够为自制 APP 提供稳定的
 
 - IOS36-64-v3608.wad 是最新的 IOS36 安装文件，MMM 将基于它制作出 cIOS236；
 
-- 如果你无法在 MMM 中完成 cIOS236 的安装，在 `apps/MMM` 文件夹里有一个 cIOS236 的安装文件（.wad 格式），请参考[《Step 2: 安装 USB Loader 使用的 cIOS》](@ref step2)中的操作步骤来安装 cIOS236，然后略过本文余下的内容，跳转到[《Step 4: 安装 IOS58》](@ref step4)继续操作：<br/>
+- 如果你无法在 MMM 中安装 cIOS236，请参考[《Step 2: 安装 USB Loader 使用的 cIOS》](@ref step2)中的操作步骤，使用 YAWM ModMii Edition 来安装 `wad` 文件夹里的 cIOS236[36-v3351]-v65535.wad，然后略过本文余下的内容，跳转到[《Step 4: 安装 IOS58》](@ref step4)继续操作：<br/>
   ![](./yawmME-select-cios236.png)
+
+- 使用 Some YAWMM Mod 也能安装 cIOS236[36-v3351]-v65535.wad，操作步骤请参考[《安装 USB Loader 使用的 cIOS（2022 版）》](@ref some-yawmm-mod)：<br/>
+  ![](./yawmm-select-cios236.png)
 
 - MMM 启动之后，会优先选择 cIOS236 进行加载，这是在 SD 卡根目录下的 mmmconfig.txt 中设置的；
 
-- Some YAWMM Mod 启动之后，也会优先选择 cIOS236 进行加载，这是在 wad 文件夹下的 wm_config.txt 中设置的。
+- Some YAWMM Mod 启动之后，也会优先选择 cIOS236 进行加载，这是在 wad 文件夹里的 wm_config.txt 中设置的。
 
 
 ## 四、安装步骤

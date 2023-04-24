@@ -13,7 +13,7 @@
 
 - 本文重在阐述安装步骤，相关知识点请参考[《USB Loader 使用的 cIOS》](../cios-for-usb-loader/README.md)；
 
-- YAWM ModMii Edition 会进行严格的区域信息检查，在欧美日韩以外的非主流机型上运行可能会出现以下错误：
+- YAWM ModMii Edition 会进行严格的地区信息检查，在欧美日韩以外的非主流机型上运行可能会出现以下错误：
 
   ![](./yawmME-unknown-region.png)
 

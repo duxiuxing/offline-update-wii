@@ -15,11 +15,14 @@ IOS58 是 4.3 系统新增加的系统级 IOS，它全面支持 USB2.0 协议，
 
 ## 三、注意事项
 
-- 在 HBC 界面按遥控器手柄的 [HOME] 键，画面右上角会显示 HBC 正在使用的 IOS。如果你的 Wii 和下图一样，显示为 IOS58 v24.32，说明你的 Wii 已经安装了最新的 IOS58，可以略过本文余下的内容，跳转到[《Step 5: 把 HBC 升级到 1.1.2 版本》](@ref step5)继续操作：<br/>
+- 在 HBC 界面按遥控器手柄的 [HOME] 键，画面右上角会显示 HBC 正在使用的 IOS。如果你的 Wii 和下图一样，显示为 IOS58 v24.32，说明你的 Wii 已经安装了最新的 IOS58，可以略过本文余下的内容，跳转到[《Step 5: 安装 1.1.2 版本的 HBC》](@ref step5)继续操作：<br/>
   ![](./hbc-1.1.0-use-ios58.png)
 
 - 安装 IOS58 这样的系统级 IOS，一般 WAD 安装工具可能会因为权限不足而失败，如下图所示：<br/>
   ![](./yawmME-install-wad-error.png)
+
+- 如果你无法在 MMM 中完成 IOS58 的安装，请参考[《安装 USB Loader 使用的 cIOS（2022 版）》](@ref some-yawmm-mod)中的操作步骤来安装 IOS58-64-v6176.wad，然后略过本文余下的内容，跳转到[《Step 5: 安装 1.1.2 版本的 HBC》](@ref step5)继续操作：<br/>
+  ![](./yawmm-select-ios58.png)
 
 
 ## 四、操作步骤

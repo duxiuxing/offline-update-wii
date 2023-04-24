@@ -1445,7 +1445,8 @@ HTML_EXTRA_FILES       = ../system-version/to-wii-options.png \
                          ../ios58/mmm-sel-ios58.png \
                          ../ios58/mmm-wad-manager.png \
                          ../ios58/multi-mod-manager.png \
-                         ../ios58/yawmME-install-wad-error.png \
+                         ../ios58/yawmm-select-ios58.png \
+                         ../ios58/yawmME-install-wad-error.png \                         
                          ../hackmii-installer-v1.2/hmiv1.2.png \
                          ../hackmii-installer-v1.2/hmiv1.2-bootmii-as-boot2.png \
                          ../hackmii-installer-v1.2/hmiv1.2-bootmii-as-ios-only.png \

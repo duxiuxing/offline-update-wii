@@ -72,15 +72,9 @@ create_directory_if_not_exist(wad_folder)
 
 
 def step1():
-    extract_file_to("hackmii-installer-v1.0\\hackmii-installer-v1.0.zip", "apps")
-    boot_elf_src_path = os.path.join(apps_folder, "hackmii-installer-v1.0\\boot.elf")
-    if verify_file_exist(boot_elf_src_path) is False:
-        return False
-    
-    boot_elf_dest_file = os.path.join(LocalSettings.output_folder, "boot.elf")
-    shutil.copyfile(boot_elf_src_path, boot_elf_dest_file)
-    if verify_file_exist(boot_elf_dest_file) is False:
-        return False
+    copy_file_to("hackmii-installer-v0.8\\boot.elf", "apps\\hackmii-installer-v0.8")
+    copy_file_to("hackmii-installer-v1.0\\boot.elf", "apps\\hackmii-installer-v1.0")
+    copy_file_to("hackmii-installer-v1.0\\boot.elf", ".")
     
     return extract_file_to("bannerbomb-v1\\aad1f_v108.zip", ".")
 
@@ -88,7 +82,7 @@ step1()
 
 
 def step2():
-    extract_file_to("some-yawmm-mod\\some-yawmm-mod-v1.0.zip", "apps")
+    extract_file_to("some-yawmm-mod\\some-yawmm-mod-v1.0.zip", ".")
     extract_file_to("yawmME\\yawmME.zip", "apps")
 
     copy_file_to("cios-for-usb-loader\\cIOS222[38]-v5.1R.wad", "wad\\cIOS")

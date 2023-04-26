@@ -134,7 +134,7 @@ step6()
 
 
 def step7():
-    return extract_file_to("priiloader\\Priiloader-v0.9.1.zip", "apps")
+    return extract_file_to("priiloader-installer\\Priiloader-v0.9.1.zip", "apps")
 
 step7()
 

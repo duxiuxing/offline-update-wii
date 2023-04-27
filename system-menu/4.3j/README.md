@@ -1,11 +1,11 @@
 # 日版系统安装 4.3J 中文系统菜单  {#system-menu-4-3j-zhtw}
 
 
-## 一、本教程适用的系统版本
+## 一、本文适用的系统版本
 
 如果你的 Wii 不是日版系统，请回到[《Step 6: 安装 4.3 中文系统菜单》](@ref system-menu-4-3)重新选择匹配的教程再继续。
 
-本教程只适用于已经安装了日版系统的 Wii，这些系统包括：4.3J、4.2J、4.1J、4.0J、3.4J、3.3J、3.2J、3.1J、3.0J。
+本文只适用于已经安装了日版系统的 Wii，这些系统包括：4.3J、4.2J、4.1J、4.0J、3.4J、3.3J、3.2J、3.1J、3.0J。
 
 
 ## 二、相关文件
@@ -13,7 +13,7 @@
 | 文件 | 出处 |
 | --- | --- |
 | 4.3J-SystemMenu-ZHTW-v512-4.wad | 由 UP 主馬到成功制作 |
-| cIOS80-64-v16174.wad | 4.3 中文系统菜单必须搭配此 IOS80 版本 |
+| cIOS80-64-v16174.wad | 4.3 中文系统菜单必须搭配此 cIOS80 版本 |
 | YAWM ModMii Edition | <https://github.com/modmii/YAWM-ModMii-Edition> |
 | Some YAWMM Mod | <https://github.com/FIX94/Some-YAWMM-Mod> |
 

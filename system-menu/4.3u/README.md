@@ -1,11 +1,11 @@
 # 美版系统安装 4.3U 中文系统菜单  {#system-menu-4-3u-twn}
 
 
-## 一、本教程适用的系统版本
+## 一、本文适用的系统版本
 
 如果你的 Wii 不是美版系统，请回到[《Step 6: 安装 4.3 中文系统菜单》](@ref system-menu-4-3)重新选择匹配的教程再继续。
 
-本教程只适用于已经安装了美版系统的 Wii，这些系统包括：4.3U、4.2U、4.1U、4.1C、4.0U、3.4U、3.3U、3.2U、3.1U、3.0U。
+本文只适用于已经安装了美版系统的 Wii，这些系统包括：4.3U、4.2U、4.1U、4.1C、4.0U、3.4U、3.3U、3.2U、3.1U、3.0U。
 
 
 ## 二、相关文件
@@ -13,7 +13,7 @@
 | 文件 | 出处 |
 | --- | --- |
 | 4.3U-SystemMenu-TWN-v513-2011-2.wad | 来自 TVGZone 论坛 |
-| cIOS80-64-v16174.wad | 4.3 中文系统菜单必须搭配此 IOS80 版本 |
+| cIOS80-64-v16174.wad | 4.3 中文系统菜单必须搭配此 cIOS80 版本 |
 | YAWM ModMii Edition | <https://github.com/modmii/YAWM-ModMii-Edition> |
 | Some YAWMM Mod | <https://github.com/FIX94/Some-YAWMM-Mod> |
 

@@ -29,11 +29,11 @@ cIOS236 是官方 IOS36 的补丁版本，它能够为自制 APP 提供稳定的
   ![](./mmm-cios236-loaded.png)
 
 - 以下三种安装 cIOS236 的方法：
-  - 方法1只能支持 SD 卡，使用的 IOS36 版本比较新；
-  - 方法2和方法3可以选择 SD 卡或 USB 设备，使用的 IOS36 版本稍微老一丢丢。
+  - 方法 A 只能支持 SD 卡，使用的 IOS36 版本比较新；
+  - 方法 B 和方法 C 可以选择 SD 卡或 USB 设备，使用的 IOS36 版本稍微老一丢丢。
 
 
-## 四、安装方法1：使用 MMM 安装 cIOS236 
+## 四、安装方法 A：使用 MMM 安装 cIOS236 
 
 1. 在 HBC 运行 MMM ：<br/>
   ![](./multi-mod-manager.png)
@@ -62,14 +62,14 @@ cIOS236 是官方 IOS36 的补丁版本，它能够为自制 APP 提供稳定的
 > You can use it to install anything now.
 
 
-## 五、安装方法2：使用 YAWM ModMii Edition 安装 cIOS236
+## 五、安装方法 B：使用 YAWM ModMii Edition 安装 cIOS236
 
 使用 YAWM ModMii Edition 来安装 `wad` 文件夹里的 cIOS236[36-v3351]-v65535.wad，可参考[《Step 2: 安装 USB Loader 使用的 cIOS》](@ref step2)中的操作步骤：
 
 ![](./yawmME-select-cios236.png)
 
 
-## 六、安装方法3：使用 Some YAWMM Mod 安装 cIOS236
+## 六、安装方法 C：使用 Some YAWMM Mod 安装 cIOS236
 
 使用 Some YAWMM Mod 来安装 `wad` 文件夹里的 cIOS236[36-v3351]-v65535.wad，可参考[《安装 USB Loader 使用的 cIOS（2022 版）》](@ref some-yawmm-mod)中的操作步骤：
 

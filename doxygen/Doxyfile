@@ -927,7 +927,11 @@ INPUT                  = ../system-version/README.md \
                          ../ios58/README.md \
                          ../hackmii-installer-v1.2/README.md \
                          ../system-menu/4.3j/README.md \
+                         ../priiloader-installer/README.md \
+                         ../change-region/README.md \
+                         ../change-region/4.3j/README.md \
                          ../system-menu/4.3u/README.md \
+                         ../change-region/4.3u/README.md \
                          ../system-menu/README.dox \
                          other-docs-toc.dox
 
@@ -1448,7 +1452,7 @@ HTML_EXTRA_FILES       = ../system-version/to-wii-options.png \
                          ../ios58/mmm-wad-manager.png \
                          ../ios58/multi-mod-manager.png \
                          ../ios58/yawmm-select-ios58.png \
-                         ../ios58/yawmME-install-wad-error.png \                         
+                         ../ios58/yawmME-install-wad-error.png \
                          ../hackmii-installer-v1.2/hmiv1.2.png \
                          ../hackmii-installer-v1.2/hmiv1.2-bootmii-as-boot2.png \
                          ../hackmii-installer-v1.2/hmiv1.2-bootmii-as-ios-only.png \
@@ -1458,7 +1462,43 @@ HTML_EXTRA_FILES       = ../system-version/to-wii-options.png \
                          ../hackmii-installer-v1.2/hmiv1.2-install-hbc-success.png \
                          ../hackmii-installer-v1.2/hmiv1.2-press-1-to-continue.png \
                          ../hackmii-installer-v1.2/hmiv1.2-startup.png \
-                         ../hackmii-installer-v1.2/hmiv1.2-yes-continue.png
+                         ../hackmii-installer-v1.2/hmiv1.2-yes-continue.png \
+                         ../system-menu/wii-settings1-4.3j-zhtw.png \
+                         ../system-menu/wii-settings1-4.3u-twn.png \
+                         ../system-menu/4.3j/yawmME-install-4.3j-ok.png \
+                         ../system-menu/4.3j/yawmME-install-4.3j-priiloader.png \
+                         ../system-menu/4.3j/yawmME-install-4.3j-priiloader-ok.png \
+                         ../system-menu/4.3j/yawmME-install-4.3u-error.png \
+                         ../system-menu/4.3j/yawmME-install-cios80-for-4.3j-ok.png \
+                         ../system-menu/4.3j/yawmME-select-4.3j.png \
+                         ../system-menu/4.3j/yawmME-select-cios80-for-4.3j.png \
+                         ../system-menu/4.3j/yawmm-install-4.3j-ok.png \
+                         ../system-menu/4.3j/yawmm-install-cios80-for-4.3j-ok.png \
+                         ../system-menu/4.3j/yawmm-select-4.3j.png \
+                         ../system-menu/4.3j/yawmm-select-cios80-for-4.3j.png \
+                         ../priiloader-installer/pi-init.png \
+                         ../priiloader-installer/pi-install-done.png \
+                         ../priiloader-installer/pi-to-install.png \
+                         ../priiloader-installer/priiloader-installer.png \
+                         ../change-region/ARCME.png \
+                         ../change-region/ARCME-continue.png \
+                         ../change-region/ARCME-ok.png \
+                         ../change-region/ARCME-warning.png \
+                         ../change-region/yawmME.png \
+                         ../change-region/yawmME-priiloader-installed.png \
+                         ../change-region/yawmME-priiloader-not-installed.png \
+                         ../system-menu/4.3u/yawmME-install-4.3j-error.png \
+                         ../system-menu/4.3u/yawmME-install-4.3u-ok.png \
+                         ../system-menu/4.3u/yawmME-install-4.3u-priiloader.png \
+                         ../system-menu/4.3u/yawmME-install-4.3u-priiloader-ok.png \
+                         ../system-menu/4.3u/yawmME-install-cios80-for-4.3u-ok.png \
+                         ../system-menu/4.3u/yawmME-select-4.3u.png \
+                         ../system-menu/4.3u/yawmME-select-cios80-for-4.3u.png \
+                         ../system-menu/4.3u/yawmm-install-4.3u-ok.png \
+                         ../system-menu/4.3u/yawmm-install-cios80-for-4.3u-ok.png \
+                         ../system-menu/4.3u/yawmm-select-4.3u.png \
+                         ../system-menu/4.3u/yawmm-select-4.3u-cios80.png \
+                         ../system-menu/4.3u/yawmm-select-cios80-for-4.3u.png
 
 # The HTML_COLORSTYLE tag can be used to specify if the generated HTML output
 # should be rendered with a dark or light theme.

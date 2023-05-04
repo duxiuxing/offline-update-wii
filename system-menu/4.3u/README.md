@@ -24,13 +24,13 @@
 
 - 特别强调，4.3U 中文系统菜单对应的 .wad 文件在 `wad/4.3U-SystemMenu-TWN` 文件夹；
 
-- 以下两种安装中文系统菜单的方法，优先推荐使用方法1，因为 YAWM ModMii Edition 会进行严格的地区信息检查，当你错误选择了 4.3J 中文系统菜单的时候，APP 会拒绝安装：<br/>
+- 以下两种安装中文系统菜单的方法，优先推荐使用方法 A，因为 YAWM ModMii Edition 会进行严格的地区信息检查，当你错误选择了 4.3J 中文系统菜单的时候，APP 会拒绝安装：<br/>
   ![](./yawmME-install-4.3j-error.png)
 
 - 为了避免错过安装过程中的错误信息，两种方法都没有使用批量安装，而是采用了先装 cIOS，再装系统菜单的方式。
 
 
-## 四、安装方法1：使用 YAWM ModMii Edition
+## 四、安装方法 A：使用 YAWM ModMii Edition
 
 1. 先安装 cIOS80-64-v16174.wad：<br/>
   ![](./yawmME-select-cios80-for-4.3u.png)
@@ -44,16 +44,20 @@
 4. 等待安装结束，按两下 [HOME] 键退出 APP：<br/>
   ![](./yawmME-install-4.3u-ok.png)
 
-5. 如果已经装过 Priiloader，会有温馨提示，按 [A] 键继续：<br/>
+5. 请回到[《Step 6: 安装 4.3 中文系统菜单》](@ref system-menu-4-3)继续下一步操作：安装 Priiloader。
+
+如果已经装过 Priiloader，在上面第 4 步会有温馨提示：
+
+1. 按 [A] 键继续：<br/>
   ![](./yawmME-install-4.3u-priiloader.png)
 
-6. 等待安装结束，按两下 [HOME] 键退出 APP：<br/>
+2. 等待安装结束，按两下 [HOME] 键退出 APP：<br/>
   ![](./yawmME-install-4.3u-priiloader-ok.png)
 
-7. 请回到[《Step 6: 安装 4.3 中文系统菜单》](@ref system-menu-4-3)继续下一步操作：安装 Priiloader。
+3. 请回到[《Step 6: 安装 4.3 中文系统菜单》](@ref system-menu-4-3)继续下一步操作：最后确认。
 
 
-## 五、安装方法2：使用 Some YAWMM Mod
+## 五、安装方法 B：使用 Some YAWMM Mod
 
 1. 先安装 cIOS80-64-v16174.wad：<br/>
   ![](./yawmm-select-cios80-for-4.3u.png)

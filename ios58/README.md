@@ -21,17 +21,17 @@ IOS58 是 4.3 系统新增加的系统级 IOS，它全面支持 USB2.0 协议，
 - 安装 IOS58 这样的系统级 IOS，APP 需要靠 cIOS236 提供高级权限，否则就会像 YAWM ModMii Edition 一样，因为权限不足而失败，如下图所示：<br/>
   ![](./yawmME-install-wad-error.png)
 
-- 以下两种安装 IOS58-64-v6176.wad 的方法，方法1可以选择 SD 卡或 USB 设备，而方法2只能支持 SD 卡。
+- 以下两种安装 IOS58-64-v6176.wad 的方法，方法 A 可以选择 SD 卡或 USB 设备，而方法 B 只能支持 SD 卡。
 
 
-## 四、安装方法1：使用 Some YAWMM Mod 安装 IOS58 
+## 四、安装方法 A：使用 Some YAWMM Mod 安装 IOS58 
 
 Some YAWMM Mod 启动之后，会优先选择 cIOS236 进行加载，这是在 wad 文件夹里的 wm_config.txt 中设置的。使用 Some YAWMM Mod 来安装 `wad` 文件夹里的 IOS58-64-v6176.wad，可参考[《安装 USB Loader 使用的 cIOS（2022 版）》](@ref some-yawmm-mod)中的操作步骤：
 
 ![](./yawmm-select-ios58.png)
 
 
-## 五、安装方法2：使用 MMM 安装 IOS58
+## 五、安装方法 B：使用 MMM 安装 IOS58
 
 MMM 启动之后，也会优先选择 cIOS236 进行加载，这是在 SD 卡根目录下的 mmmconfig.txt 中设置的。
 

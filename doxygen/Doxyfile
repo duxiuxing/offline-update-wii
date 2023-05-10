@@ -926,13 +926,13 @@ INPUT                  = ../system-version/README.md \
                          ../cios236/README.md \
                          ../ios58/README.md \
                          ../hackmii-installer-v1.2/README.md \
+                         ../system-menu/README.md \
                          ../system-menu/4.3j/README.md \
                          ../priiloader-installer/README.md \
                          ../change-region/README.md \
                          ../change-region/4.3j/README.md \
                          ../system-menu/4.3u/README.md \
-                         ../change-region/4.3u/README.md \
-                         ../system-menu/README.dox \
+                         ../change-region/4.3u/README.md \                         
                          other-docs-toc.dox
 
 # This tag can be used to specify the character encoding of the source files
@@ -1399,6 +1399,7 @@ HTML_EXTRA_STYLESHEET  = doxygenextra.css
 HTML_EXTRA_FILES       = ../system-version/to-wii-options.png \
                          ../system-version/to-wii-settings.png \
                          ../system-version/wii-settings1.png \
+                         ../system-version/wii-settings1-3.0j.png \
                          ../hbc-1.1.0/hbc-1.1.0.png \
                          ../hbc-1.1.0/hbc-icon.png \
                          ../hbc-1.1.0/hmiv1.0.png \

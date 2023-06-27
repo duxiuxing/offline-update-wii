@@ -1396,10 +1396,10 @@ HTML_EXTRA_STYLESHEET  = doxygenextra.css
 # files will be copied as-is; there are no commands or markers available.
 # This tag requires that the tag GENERATE_HTML is set to YES.
 
-HTML_EXTRA_FILES       = ../system-version/to-wii-options.png \
+HTML_EXTRA_FILES       = ../system-version/3.0j-wii-settings1.png \
+                         ../system-version/to-wii-options.png \
                          ../system-version/to-wii-settings.png \
-                         ../system-version/wii-settings1.png \
-                         ../system-version/wii-settings1-3.0j.png \
+                         ../system-version/wii-settings1.png \                         
                          ../hbc-1.1.0/hbc-1.1.0.png \
                          ../hbc-1.1.0/hbc-icon.png \
                          ../hbc-1.1.0/hmiv1.0.png \
@@ -1426,6 +1426,7 @@ HTML_EXTRA_FILES       = ../system-version/to-wii-options.png \
                          ../some-yawmm-mod/yawmm-select-sd.png \
                          ../some-yawmm-mod/yawmm-select-usb.png \
                          ../some-yawmm-mod/yawmm-select-wads.png \
+                         ../hackmii-installer-v1.0/hackmii-installer-v0.8.png \
                          ../hackmii-installer-v1.0/hmiv1.0-bootmii-as-boot2.png \
                          ../hackmii-installer-v1.0/hmiv1.0-bootmii-as-ios-only.png \
                          ../hackmii-installer-v1.0/hmiv1.0-exit.png \

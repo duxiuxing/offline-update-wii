@@ -4,7 +4,7 @@
 ## 一、注意事项
 
 HackMii Installer v1.0 在 3.2 或者更早期的版本上运行，可能会出现异常，比如提示当前系统不支持或者一直停留在启动界面，无法继续，请改用 hackmii-installer-v0.8 这个 APP 来进行后面的操作：<br/>
-  ![](./hmiv0.8.png)
+  ![](./hackmii-installer-v0.8.png)
 
 
 ## 二、启动界面

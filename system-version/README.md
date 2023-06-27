@@ -44,4 +44,4 @@
 
 本教程用古早的 3.0J 系统验证过是可行的：
 
-![](./wii-settings1-3.0j.png)
+![](./3.0j-wii-settings1.png)

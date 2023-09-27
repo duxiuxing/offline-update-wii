@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>HackMii Installer</name>
+  <coder>Team Twiizers</coder>
+  <version>1.0</version>
+  <short_description>Install the HBC 1.1.0 </short_description>
+  <long_description>Install the Homebrew Channel (HBC) 1.1.0.
+Upon launching the HackMii Installer, you will be greeted by a scam warning screen. After waiting 30 seconds the message “Press 1 to continue” should appear, then press 1.
+Note: If the "Press 1 to continue" message doesn't appear, try HackMii Installer v0.8.
+</long_description>
+ </app>

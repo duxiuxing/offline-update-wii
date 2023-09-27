@@ -31,7 +31,7 @@ HackMii Installer v1.0 在 3.2 或者更早期的版本上运行，可能会出�
 
 ### A. 神机的检测结果界面
 
-早期的 Wii 存在一个漏洞，姑且将其称为 boot2 漏洞。通过这个漏洞，我们可以使用 BootMii 在 Wii 上面安装欧美日韩任意一区，任意版本的系统，无障碍畅玩各区的游戏，而且还能够 100% 防砖。日本民间将这种机型的 Wii 称为： **神机** 。
+Wii 的内部有一个叫 boot2 的模块，早期出厂的 Wii，boot2 模块是可写的，姑且将其称为 boot2 漏洞。利用这个漏洞，我们把 BootMii 安装到 boot2 模块上，实现 100% 防砖。日本民间将这种机型的 Wii 称为： **神机** 。
 
 ![](./hackmii-installer-v1.0-bootmii-as-boot2.png)
 
@@ -47,9 +47,9 @@ HackMii Installer v1.0 在 3.2 或者更早期的版本上运行，可能会出�
 
 ![](./hackmii-installer-v1.0-bootmii-as-ios-only.png)
 
-市面上绝大部分机型都是普通机型，普通机型的 BootMii 检测结果总是 Can only be installed as an IOS。
+为了打击破解行为，任天堂把之后出厂的 Wii 内部的 boot2 模块改成了只读，即不可修改。这样的机型变砖之后修复的难度增大，市面上绝大部分的 Wii 都是这样的机型，故称之为：普通机型。普通机型的 BootMii 检测结果总是 Can only be installed as an IOS。
 
-检测结果界面没有其他操作入口，按 [A] 键继续。
+检测结果界面没有其他操作入口，不管你的 Wii 是神机还是普通机型，都是按 [A] 键继续。
 
 
 ## 四、安装 1.1.0 版的 HBC

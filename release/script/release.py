@@ -100,7 +100,7 @@ step2()
 def step3():
     extract_file_to("mmm\\Multi-Mod-Manager-v13.4.zip", ".")
 
-    copy_file_to("cios236\\cIOS236[36-v3351]-v65535.wad", "wad")
+    copy_file_to("cios236\\cIOS236[IOS36-v3351]-v65535.wad", "wad")
     copy_file_to("cios236\\IOS15-64-v257.wad", ".")
     copy_file_to("cios236\\IOS15-64-v1032.wad", ".")
     copy_file_to("cios236\\IOS36-64-v3608.wad", ".")

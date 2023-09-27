@@ -72,11 +72,13 @@ create_directory_if_not_exist(wad_folder)
 
 
 def step1():
-    copy_file_to("hackmii-installer-v0.8\\boot.elf", "apps\\hackmii-installer-v0.8")
-    copy_file_to("hackmii-installer-v0.8\\meta.xml", "apps\\hackmii-installer-v0.8")
-    copy_file_to("hackmii-installer-v1.0\\boot.elf", "apps\\hackmii-installer-v1.0")
-    copy_file_to("hackmii-installer-v1.0\\meta.xml", "apps\\hackmii-installer-v1.0")
-    copy_file_to("hackmii-installer-v1.0\\boot.elf", ".")
+    copy_file_to("hackmii-installer\\v0.6\\boot.dol", "apps\\hackmii-installer-v0.6")
+    copy_file_to("hackmii-installer\\v0.6\\meta.xml", "apps\\hackmii-installer-v0.6")
+    copy_file_to("hackmii-installer\\v0.8\\boot.elf", "apps\\hackmii-installer-v0.8")
+    copy_file_to("hackmii-installer\\v0.8\\meta.xml", "apps\\hackmii-installer-v0.8")
+    copy_file_to("hackmii-installer\\v1.0\\boot.elf", "apps\\hackmii-installer-v1.0")
+    copy_file_to("hackmii-installer\\v1.0\\meta.xml", "apps\\hackmii-installer-v1.0")
+    copy_file_to("hackmii-installer\\v1.0\\boot.elf", ".")
     
     return extract_file_to("bannerbomb-v1\\aad1f_v108.zip", ".")
 
@@ -118,7 +120,9 @@ step4()
 
 
 def step5():
-    return extract_file_to("hackmii-installer-v1.2\\hackmii-installer-v1.2.zip", "apps")
+    copy_file_to("hackmii-installer\\v1.2\\boot.elf", "apps\\hackmii-installer-v1.2")
+    copy_file_to("hackmii-installer\\v1.2\\icon.png", "apps\\hackmii-installer-v1.2")
+    copy_file_to("hackmii-installer\\v1.2\\meta.xml", "apps\\hackmii-installer-v1.2")
 
 step5()
 

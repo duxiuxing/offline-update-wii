@@ -21,7 +21,7 @@ HBC 是 Homebrew Channel 的缩写。在 Wii 上面安装游戏、玩游戏、�
 4. 如果你的 HBC 版本低于 1.1.0，请运行 HackMii Installer v1.0 来升级 HBC：<br/>
   ![](./hackmii-installer-v1.0-banner.png)
 
-5. 接下来请参考[《使用 HackMii Installer v1.0 安装 HBC》](@ref hmiv1-0)一文中的操作步骤，完成 HBC 的升级。
+5. 接下来请参考[《使用 HackMii Installer v1.0 安装 HBC》](@ref hackmii-installer-v10)一文中的操作步骤，完成 HBC 的升级。
 
 
 ## 二、如果你的 Wii 没有安装 HBC

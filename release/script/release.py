@@ -80,7 +80,7 @@ def step1():
     copy_file_to("hackmii-installer\\v1.0\\meta.xml", "apps\\hackmii-installer-v1.0")
     copy_file_to("hackmii-installer\\v1.0\\boot.elf", ".")
     
-    return extract_file_to("bannerbomb-v1\\aad1f_v108.zip", ".")
+    return extract_file_to("bannerbomb\\v1\\aad1f_v108.zip", ".")
 
 step1()
 
@@ -89,13 +89,13 @@ def step2():
     extract_file_to("some-yawmm-mod\\some-yawmm-mod-v1.0.zip", ".")
     extract_file_to("yawmME\\yawmME.zip", "apps")
 
-    copy_file_to("cios-for-usb-loader\\cIOS222[38]-v5.1R.wad", "wad\\cIOS")
-    copy_file_to("cios-for-usb-loader\\cIOS223[37]-v5.1R.wad", "wad\\cIOS")
-    copy_file_to("cios-for-usb-loader\\cIOS224[57]-v5.1R.wad", "wad\\cIOS")
-    copy_file_to("cios-for-usb-loader\\cIOS248[38]-d2x-v11-beta1.wad", "wad\\cIOS")
-    copy_file_to("cios-for-usb-loader\\cIOS249[56]-d2x-v11-beta1.wad", "wad\\cIOS")
-    copy_file_to("cios-for-usb-loader\\cIOS250[57]-d2x-v11-beta1.wad", "wad\\cIOS")
-    copy_file_to("cios-for-usb-loader\\cIOS251[58]-d2x-v11-beta1.wad", "wad\\cIOS")
+    copy_file_to("cios\\for-usb-loader\\cIOS222[38]-v5.1R.wad", "wad\\cIOS")
+    copy_file_to("cios\\for-usb-loader\\cIOS223[37]-v5.1R.wad", "wad\\cIOS")
+    copy_file_to("cios\\for-usb-loader\\cIOS224[57]-v5.1R.wad", "wad\\cIOS")
+    copy_file_to("cios\\for-usb-loader\\cIOS248[38]-d2x-v11-beta1.wad", "wad\\cIOS")
+    copy_file_to("cios\\for-usb-loader\\cIOS249[56]-d2x-v11-beta1.wad", "wad\\cIOS")
+    copy_file_to("cios\\for-usb-loader\\cIOS250[57]-d2x-v11-beta1.wad", "wad\\cIOS")
+    copy_file_to("cios\\for-usb-loader\\cIOS251[58]-d2x-v11-beta1.wad", "wad\\cIOS")
     return True
 
 step2()
@@ -129,10 +129,10 @@ step5()
 
 def step6():
     copy_file_to("system-menu\\4.3j\\4.3J-SystemMenu-ZHTW-v512-4.wad", "wad\\4.3J-SystemMenu-ZHTW")
-    copy_file_to("system-menu\\4.3j\\cIOS80-64-v16174.wad", "wad\\4.3J-SystemMenu-ZHTW")
+    copy_file_to("cios\\cIOS80-64-v16174.wad", "wad\\4.3J-SystemMenu-ZHTW")
 
     copy_file_to("system-menu\\4.3u\\4.3U-SystemMenu-TWN-v513-2011-2.wad", "wad\\4.3U-SystemMenu-TWN")
-    copy_file_to("system-menu\\4.3u\\cIOS80-64-v16174.wad", "wad\\4.3U-SystemMenu-TWN")
+    copy_file_to("cios\\cIOS80-64-v16174.wad", "wad\\4.3U-SystemMenu-TWN")
 
     return extract_file_to("change-region\\ARCME.zip", "apps")
 

@@ -945,7 +945,7 @@ WARN_LOGFILE           =
 
 INPUT                  = ../system-version/README.md \
                          ../hbc/v1.1.0/README.md \
-                         ../bannerbomb-v1/README.md \
+                         ../bannerbomb/v1/README.md \
                          ../yawmME/README.md \
                          ../some-yawmm-mod/README.md \
                          ../hackmii-installer/v1.0/README.md \

@@ -26,4 +26,4 @@ HBC 是 Homebrew Channel 的缩写。在 Wii 上面安装游戏、玩游戏、�
 
 ## 二、如果你的 Wii 没有安装 HBC
 
-如果你在系统主界面找不到“蓝色波浪”的频道图标，说明你的 Wii 没有安装 HBC。4.1 及以下系统可以通过一个叫 Bannerbomb 的系统漏洞来安装 HBC，详细操作请参考[《通过 Bannerbomb v1 漏洞安装 HBC》](@ref bannerbomb-v1)。
+如果你在系统主界面找不到“蓝色波浪”的频道图标，说明你的 Wii 没有安装 HBC。4.1 及以下系统可以利用 Bannerbomb v1 漏洞来安装 HBC，详细操作请参考[《利用 Bannerbomb v1 漏洞安装 HBC》](@ref bannerbomb-v1)。
